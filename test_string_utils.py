@@ -7,6 +7,6 @@ def test_count_words():
     assert count_words("Das ist ein einfacher Test.") == 5
 
 def test_is_palindrome():
-    assert is_palindrome("Lagerregal") == True
-    assert is_palindrome("Ein Neger mit Gazelle zagt im Regen nie") == True
-    assert is_palindrome("Hallo") == False
+    assert is_palindrome("Lagerregal")
+    assert is_palindrome("Reliefpfeiler")
+    assert not is_palindrome("Hallo")
