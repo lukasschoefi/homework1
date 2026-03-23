@@ -1,5 +1,7 @@
 # Text Analyzer Project
 
+[![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
+
 ## Scope
 This is a small, stand-alone Python project that provides simple string manipulation and analysis functions. It was created as part of a university/course assignment.
 
