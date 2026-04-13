@@ -1,3 +1,5 @@
+import os
+
 def clean_whitespace(text: str) -> str:
     """Entfernt überflüssige Leerzeichen aus einem Text."""
     return " ".join(text.split())
